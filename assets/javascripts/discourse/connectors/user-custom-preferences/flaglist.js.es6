@@ -5,7 +5,7 @@ export default {
       "name": "-",
       "value": "none.png"
     },  {
-      "name": "Styria",
+      "name": "Steiermark",
       "value": "Steiermark.png"
     }
   ]
